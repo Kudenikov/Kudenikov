@@ -23,4 +23,4 @@
 [<img alt="Codewars" width="300px" src="https://www.codewars.com/users/Artem%20Kudenikov/badges/large" />](https://www.codewars.com/users/Artem%20Kudenikov)
 
 ### Я в телеграм:
-[<img alt="Codewars" width="300px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />](https://t.me/artem_kudenikov)
+[<img alt="Codewars" width="40px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" />](https://t.me/artem_kudenikov)
